@@ -28,3 +28,8 @@ Here’s a sneak peek of the game:
 2. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/ikhsannovianto/Game-Space-War.git
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**. You can find the full text of the MIT License in the [LICENSE](LICENSE) file in this repository.

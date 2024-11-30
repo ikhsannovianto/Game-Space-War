@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Lev
+comment1.params=
+comment1.target=Lev()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Lev.\r\n\ \r\n
+comment10.params=
+comment10.target=void\ act()
+comment2.params=point
+comment2.target=void\ updateNyawa(int)
+comment3.params=
+comment3.target=void\ tampilnyawa()
+comment4.params=hp
+comment4.target=void\ updateHPBos(int)
+comment5.params=
+comment5.target=void\ tampilNyawaBos()
+comment6.params=
+comment6.target=void\ tampilscore()
+comment7.params=points
+comment7.target=void\ addScore(int)
+comment8.params=
+comment8.target=void\ countTime()
+comment9.params=
+comment9.target=void\ showTime()
+numComments=11

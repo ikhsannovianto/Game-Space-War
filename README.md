@@ -16,7 +16,7 @@
 
 ## 📸 Game Preview
 Here’s a sneak peek of the game:  
-![Game Preview](images/game-preview.png)
+![Game Preview](docs-images/game-preview.png)
 
 ---
 

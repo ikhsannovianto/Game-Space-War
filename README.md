@@ -2,7 +2,7 @@
 
 **Space War Game** is a dynamic 2D action game developed using **Greenfoot** and programmed in **Java**. In this game, players take on the role of an astronaut defending Earth from an alien invasion. The goal is to combat alien forces while progressing through increasingly difficult levels.
 
-[Play the game on Greenfoot! 🎮](https://www.greenfoot.org/scenarios/32053)
+[Play the game on Greenfoot!](https://www.greenfoot.org/scenarios/32053)
 
 ---
 

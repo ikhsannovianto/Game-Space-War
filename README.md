@@ -31,8 +31,3 @@ Here’s a preview of the game’s interface:
 2. **Clone the repository**:
    ```bash
    git clone https://github.com/ikhsannovianto/Game-Space-War.git
-
----
-
-## License
-This project is licensed under the **MIT License**. You can find the full text of the MIT License in the [LICENSE](LICENSE) file in this repository.
